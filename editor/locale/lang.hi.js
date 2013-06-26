@@ -172,7 +172,7 @@ svgEditor.readLang({
 		"background": "संपादक पृष्ठभूमि",
 		"editor_img_url": "Image URL",
 		"editor_bg_note": "नोट: पृष्ठभूमि छवि के साथ नहीं बचायी जाएगी",
-		"icon_large": "बड़ा",
+		"icon_large": "बड़ा",
 		"icon_medium": "मध्यम",
 		"icon_small": "छोटा",
 		"icon_xlarge": "बहुत बड़ा",
@@ -198,7 +198,10 @@ svgEditor.readLang({
 		"music": "Music",
 		"misc": "Miscellaneous",
 		"raphael_1": "raphaeljs.com set 1",
-		"raphael_2": "raphaeljs.com set 2"
+		"raphael_2": "raphaeljs.com set 2",
+		"raphael_3": "raphaeljs.com set 3",
+		"raphael_4": "raphaeljs.com set 4",
+		"raphael_5": "raphaeljs.com set 5"
 	},
 	imagelib: {
 		"select_lib": "Select an image library",

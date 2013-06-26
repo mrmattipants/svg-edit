@@ -134,7 +134,7 @@ svgEditor.readLang({
 		"add_subpath": "Adăugaţi sub-traiectorie",
 		"openclose_path": "Deschide/inchide sub-traiectorie",
 		"source_save": "Folosiţi Schimbările",
-		"cut": "Tăiere"",
+		"cut": "Tăiere",
 		"copy": "Copiere",
 		"paste": "Reproducere",
 		"paste_in_place": "Reproducere pe loc",
@@ -198,7 +198,10 @@ svgEditor.readLang({
 		"music": "Muzică",
 		"misc": "Diverse",
 		"raphael_1": "raphaeljs.com set 1",
-		"raphael_2": "raphaeljs.com set 2"
+		"raphael_2": "raphaeljs.com set 2",
+		"raphael_3": "raphaeljs.com set 3",
+		"raphael_4": "raphaeljs.com set 4",
+		"raphael_5": "raphaeljs.com set 5"
 	},
 	imagelib: {
 		"select_lib": "Selectati o biblioteca de imagini",
